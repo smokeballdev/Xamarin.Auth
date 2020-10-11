@@ -21,6 +21,7 @@ using Android.OS;
 using Android.Widget;
 using Android.Support.CustomTabs;
 using Xamarin.Auth;
+using AndroidX.Browser.CustomTabs;
 
 #if !AZURE_MOBILE_SERVICES
 namespace Android.Support.CustomTabs.Chromium.SharedUtilities

@@ -24,8 +24,9 @@ using Android.Support.CustomTabs;
 using Xamarin.Utilities.Android;
 
 using Plugin.Threading;
+using AndroidX.Browser.CustomTabs;
 
-#if ! AZURE_MOBILE_SERVICES
+#if !AZURE_MOBILE_SERVICES
 namespace Xamarin.Auth
 #else
 namespace Xamarin.Auth._MobileServices

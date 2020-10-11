@@ -20,8 +20,8 @@ namespace Android.Support.CustomTabs.Chromium.SharedUtilities._MobileServices
 {
 
     using ComponentName = Android.Content.ComponentName;
-    using CustomTabsClient = Android.Support.CustomTabs.CustomTabsClient;
-    using CustomTabsServiceConnection = Android.Support.CustomTabs.CustomTabsServiceConnection;
+    using CustomTabsClient = AndroidX.Browser.CustomTabs.CustomTabsClient;
+    using CustomTabsServiceConnection = AndroidX.Browser.CustomTabs.CustomTabsServiceConnection;
 
     /// <summary>
     /// Implementation for the CustomTabsServiceConnection that avoids leaking the

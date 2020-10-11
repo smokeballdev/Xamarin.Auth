@@ -19,7 +19,7 @@ namespace Android.Support.CustomTabs.Chromium.SharedUtilities._MobileServices
 #endif
 {
 
-    using CustomTabsClient = global::Android.Support.CustomTabs.CustomTabsClient;
+    using CustomTabsClient = global::AndroidX.Browser.CustomTabs.CustomTabsClient;
 
     /// <summary>
     /// Callback for events when connecting and disconnecting from Custom Tabs Service.
