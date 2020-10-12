@@ -1,5 +1,7 @@
 # Xamarin.Auth Repository ReadMe
 
+[![Build status](https://ci.appveyor.com/api/projects/status/uqq279hqkt8o0c41?svg=true)](https://ci.appveyor.com/project/smokeballdev/xamarin-auth)
+
 Xamarin.Auth helps developers authenticate users via standard authentication mechanisms
 (e.g. OAuth 1.0 and 2.0), and store user credentials. It's also straightforward  to add
 support for non-standard authentication schemes.
