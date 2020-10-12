@@ -5,10 +5,10 @@
     -->
     <metadata minClientVersion="2.8.1">
         <id>
-            Xamarin.Auth
+            Smokeball.Xamarin.Auth
         </id>
         <title>
-            Xamarin.Auth
+            Smokeball.Xamarin.Auth
         </title>
 		<authors>
 			Microsoft
