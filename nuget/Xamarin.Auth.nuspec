@@ -111,11 +111,6 @@
             Core - .NET Standard
         -->
         <file
-            src="..\source\Core\Xamarin.Auth.NetStandard10.ReferenceAssembly\bin\Release\netstandard1.0\Xamarin.Auth.dll"
-            target="lib/netstandard1.0/Xamarin.Auth.dll"
-            >
-        </file>
-        <file
             src="..\source\Core\Xamarin.Auth.NetStandard16\bin\Release\netstandard1.6\Xamarin.Auth.dll"
             target="lib/netstandard1.6/Xamarin.Auth.dll"
             >
