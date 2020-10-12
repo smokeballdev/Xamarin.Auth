@@ -111,11 +111,11 @@
         <!--
             Core - .NET Standard
         -->
-  <!--       <file
-            src="..\source\Core\Xamarin.Auth.NetStandard16\bin\Release\netstandard1.6\Xamarin.Auth.dll"
+        <file
+            src="source\Core\Xamarin.Auth.NetStandard16\bin\Release\netstandard1.6\Xamarin.Auth.dll"
             target="lib/netstandard1.6/Xamarin.Auth.dll"
             >
-        </file> -->
+        </file>
         <!--
             Core - Portable
         -->
@@ -134,12 +134,12 @@
             Xamarin.Android
         -->
         <file
-            src="..\source\Core\Xamarin.Auth.XamarinAndroid\bin\Release\Xamarin.Auth.dll"
+            src="source\Core\Xamarin.Auth.XamarinAndroid\bin\Release\Xamarin.Auth.dll"
             target="lib/MonoAndroid10/Xamarin.Auth.dll"
             >
         </file>
         <file
-            src="..\source\Core\Xamarin.Auth.XamarinAndroid\bin\Release\Xamarin.Auth.pdb"
+            src="source\Core\Xamarin.Auth.XamarinAndroid\bin\Release\Xamarin.Auth.pdb"
             target="lib/MonoAndroid10/Xamarin.Auth.pdb"
             >
         </file>
@@ -149,12 +149,12 @@
                 Unified
         -->
         <file
-            src="..\source\Core\Xamarin.Auth.XamarinIOS\bin\Release\Xamarin.Auth.dll"
+            src="source\Core\Xamarin.Auth.XamarinIOS\bin\Release\Xamarin.Auth.dll"
             target="lib/Xamarin.iOS10/Xamarin.Auth.dll"
             >
         </file>
         <file
-            src="..\source\Core\Xamarin.Auth.XamarinIOS\bin\Release\Xamarin.Auth.pdb"
+            src="source\Core\Xamarin.Auth.XamarinIOS\bin\Release\Xamarin.Auth.pdb"
             target="lib/Xamarin.iOS10/Xamarin.Auth.pdb"
             >
         </file>
