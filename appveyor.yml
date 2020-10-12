@@ -39,7 +39,7 @@ assembly_info:
 before_build:
 - cmd: nuget restore source/Xamarin.Auth-Library.sln
 build:
-  project: Xamarin.Auth-Library.sln
+  project: source/Xamarin.Auth-Library.sln
   verbosity: minimal
 after_build:
 - cmd: nuget pack nuget/Xamarin.Auth.nuspec -basepath "./" -version "%APPVEYOR_BUILD_VERSION%"
