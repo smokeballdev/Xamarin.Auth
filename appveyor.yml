@@ -37,7 +37,7 @@ assembly_info:
   assembly_file_version: '{version}'
   assembly_informational_version: '{version}'
 before_build:
-- cmd: nuget restore Xamarin.Auth-Library.sln
+- cmd: nuget restore source/Xamarin.Auth-Library.sln
 build:
   project: Xamarin.Auth-Library.sln
   verbosity: minimal
